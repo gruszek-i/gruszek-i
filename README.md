@@ -1,4 +1,7 @@
-## Hi there 👋
+## HEY
+Student at **Computer Science** Student at [**Poznan University of Technology**](https://put.poznan.pl/en).
+
+VIM enjoyer!
 
 <!--
 **gruszek-i/gruszek-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
