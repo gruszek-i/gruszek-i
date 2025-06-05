@@ -1,5 +1,5 @@
 ## HEY
-Student at **Computer Science** Student at [**Poznan University of Technology**](https://put.poznan.pl/en).
+**Computer Science** Student at [**Poznan University of Technology**](https://put.poznan.pl/en).
 
 VIM enjoyer!
 
